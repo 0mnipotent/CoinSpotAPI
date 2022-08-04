@@ -1,0 +1,2 @@
+# CoinSpotAPI
+PHP Wrapper
